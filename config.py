@@ -38,7 +38,7 @@ FORCESUB_CHANNEL3 = int(os.environ.get("FORCESUB_CHANNEL3", "-1001590955662"))
 TG_BOT_WORKERS = int(os.environ.get("TG_BOT_WORKERS", "4"))
 
 #start message
-START_MSG = os.environ.get("START_MESSAGE", "<b>ʜᴇʟʟᴏ {first}\n\n ɪ ᴀᴍ ᴍᴜʟᴛɪ ғɪʟᴇ sᴛᴏʀᴇ ʙᴏᴛ , ɪ ᴄᴀɴ sᴛᴏʀᴇ ᴘʀɪᴠᴀᴛᴇ ғɪʟᴇs ɪɴ sᴘᴇᴄɪғɪᴇᴅ ᴄʜᴀɴɴᴇʟ ᴀɴᴅ ᴏᴛʜᴇʀ ᴜsᴇʀs ᴄᴀɴ ᴀᴄᴄᴇss ɪᴛ ғʀᴏᴍ sᴘᴇᴄɪᴀʟ ʟɪɴᴋ » @ongoing_society</b>")
+START_MSG = os.environ.get("START_MESSAGE", "<b>Wᴇʟᴄᴏᴍᴇ {first} I'ᴍ ᴀ ғɪʟᴇ sʜᴀʀɪɴɢ ʙᴏᴛ ғᴏʀ @Ani3Lix_Clan</b>")
 try:
     ADMINS=[5585016974]
     for x in (os.environ.get("ADMINS", "1342954836 ").split()):
